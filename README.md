@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Mohammed Said Al-Busaidi 
+- 👋 Hi, My name is jack tom :)
 - 👀 I’m interested in python js css
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on projects 
